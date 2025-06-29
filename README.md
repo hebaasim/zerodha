@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zerodha Trading Platform
 
 A full-stack trading platform inspired by Zerodha, featuring a React frontend, Node.js backend, and a dashboard application.
@@ -139,7 +138,4 @@ This project is licensed under the MIT License.
 
 - Inspired by Zerodha's trading platform
 - Built with modern web technologies
-- Designed for educational purposes 
-=======
-# zerodha
->>>>>>> 18350a71ac896d25b7093ba62cfb1b282299185b
+- Designed for educational purposes
